@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ]
+  ],
+  "legacy_uid": "f24ba374-6c54-e14a-0e05-5f099107e387",
+  "instructors": {
+    "content": [
+      "d5bcc774-f084-ce30-7a65-92b332f2118a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "79cfc52b-8de4-5ecd-e960-30fe19d142d8",
+    "website": "es-292-writing-workshop-spring-2008"
+  },
+  "course_title": "Writing Workshop",
+  "course_description": "MIT students are challenged daily to solve for x, to complete four problem sets, two papers, and prepare for an exam worth 30% of their grade... all in one night. When they do stop to breathe, it's for a shower or a meal. What does this have to do with creative writing? Everything. Creative writing and MIT go together better than you might imagine.\n",
+  "department_numbers": [
+    "ES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ES.292",
+  "course_image_thumbnail": {
+    "content": "0ef348ee-ea95-dc5d-2fdd-c82b066716d6",
+    "website": "es-292-writing-workshop-spring-2008"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Instructor Insights"
+  ],
+  "site_uid": "ebfabc21-c289-46c9-85ad-d71697ef2d48",
+  "site_short_id": "es.292-spring-2008",
+  "title": "Course Metadata"
+}
